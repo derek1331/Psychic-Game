@@ -3,4 +3,5 @@
 Do you believe you're a psychic?
 Then prove it :)
 
-https://derek1331.github.io/Psychic-Game/
+[Link to Psychic-Game](https://derek1331.github.io/GifTastic)https://derek1331.github.io/Psychic-Game/
+
